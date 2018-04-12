@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\WikiParse\WikiParse\bin\Debug\WikiParse.exe.config
+C:\Users\Asus\source\repos\WikiParse\WikiParse\bin\Debug\WikiParse.exe
+C:\Users\Asus\source\repos\WikiParse\WikiParse\bin\Debug\WikiParse.pdb
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\App.g.cs
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse_MarkupCompile.cache
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.g.resources
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.Properties.Resources.resources
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.exe
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse.pdb
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\WikiParse_MarkupCompile.lref
+C:\Users\Asus\source\repos\WikiParse\WikiParse\obj\Debug\TextBox.baml

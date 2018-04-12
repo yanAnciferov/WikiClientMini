@@ -1,0 +1,29 @@
+﻿<Window x:Class="WikiParse.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Width="700" Name="Window" Height="500"
+    Title="Wikipedia">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="TextBox.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Name="searchPanel" VerticalAlignment="Center">
+            <TextBlock TextAlignment="Center" FontSize="25">Поиск по википедии..</TextBlock>
+            <TextBox  KeyDown="TextBlock_KeyDown"  FontSize="28" Height="100" Margin="50,25,50,75" Name="search"></TextBox>
+        </StackPanel>
+        <DockPanel  Visibility="Hidden"  Name="DocReaderPanel">
+            <Button Click="Button_Click" DockPanel.Dock="Top" HorizontalAlignment="Stretch" Height="50" BorderBrush="DarkGray" Background="Transparent">Назад</Button>
+            
+            <FlowDocumentReader  Name="DocReader" MaxZoom="500" MinZoom="100" Zoom="100" ZoomIncrement="10" ViewingMode="Scroll" Height="Auto">
+                <FlowDocument Name="page">
+                   
+                </FlowDocument>
+        </FlowDocumentReader>
+        </DockPanel>
+
+    </Grid>
+</Window>
+
